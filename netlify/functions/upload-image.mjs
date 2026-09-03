@@ -6,7 +6,7 @@ export default async (req) => {
     if (!process.env.ADMIN_USERNAME || username !== process.env.ADMIN_USERNAME || !process.env.ADMIN_PASSWORD || password !== process.env.ADMIN_PASSWORD) {
       return new Response('Unauthorized', { status: 401 });
     }
-    const allowed = /^(project-0[1-6]\.jpg|logo\.(png|jpg|jpeg|webp))$/;
+    const allowed = /^(project-0[1-6]\.jpg|logo\.(png|jpg|jpeg|webp)|about\.(jpg|jpeg|png|webp))$/;
     if (!allowed.test(slot || '')) return new Response('Invalid file slot', { status: 400 });
     if (!image || !/^data:image\/(jpeg|png|webp);base64,/.test(image)) return new Response('Invalid image', { status: 400 });
     const base64 = image.split(',')[1];
