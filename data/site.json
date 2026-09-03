@@ -1,15 +1,166 @@
 {
-  "brand": {"name":"RK Creative Studio","tagline":"Graphic & Creative Design","logo":"logo.png"},
-  "hero": {"eyebrow":"RK Creative Studio","title":"Creative Designs That","emphasis":"Make Your Brand Stand Out.","text":"I’m Gaurav Santosh Kirtane, a graphic and creative designer focused on clean visuals, strong typography, and designs that communicate with purpose."},
-  "about": {
-    "eyebrow":"About Me","heading":"Design with clarity.","emphasis":"Built for impact.",
-    "paragraphs":["I’m Gaurav Santosh Kirtane, a Graphic Designer & Creative Designer working under RK Creative Studio. I create professional visual content for brands, creators, businesses, and social platforms.","My work combines Adobe Photoshop and Canva with a strong focus on typography, layout design, visual hierarchy, and creative presentation. The goal is simple: make every design look polished, purposeful, and ready to use."],
-    "signature":"Gaurav Santosh Kirtane","role":"Designer","photo":"about-photo.png"
+  "brand": {
+    "name": "RK Creative Studio",
+    "tagline": "Graphic & Creative Design",
+    "logo": "logo.png"
   },
-  "services":[{"title":"Graphic Design","description":"Purpose-driven visual designs for brands, campaigns, and everyday communication.","icon":"✦"},{"title":"Photoshop Design","description":"Professional image editing, compositions, retouching, and creative visual treatments.","icon":"◩"},{"title":"Canva Design","description":"Clean, editable Canva designs built for fast and consistent content creation.","icon":"C"},{"title":"Social Media Posts","description":"Scroll-stopping social creatives designed around hierarchy, message, and platform fit.","icon":"◎"},{"title":"Poster Design","description":"Bold promotional posters with strong composition, typography, and visual focus.","icon":"▣"},{"title":"Logo Design","description":"Simple, memorable logo concepts with attention to balance, identity, and usability.","icon":"⌘"},{"title":"YouTube Thumbnails","description":"High-contrast thumbnail compositions designed to communicate the video idea quickly.","icon":"▶"},{"title":"Basic Video Editing","description":"Clean cuts, simple motion, text treatments, and social-ready video finishing.","icon":"◌"}],
-  "skills":[{"name":"Adobe Photoshop","description":"Social media creatives, posters, banners, image editing, retouching, compositions and typography."},{"name":"Canva","description":"Social posts, promotional designs, business posters, presentations and editable templates."},{"name":"Typography","description":"Font pairing, hierarchy, spacing and type-focused visual communication."},{"name":"Layout Design","description":"Balanced composition, alignment, spacing and visual hierarchy."},{"name":"Branding","description":"Logo concepts and consistent visual assets for brands and businesses."},{"name":"Social Media Design","description":"Instagram and Facebook creatives built for clear communication and strong presentation."},{"name":"Basic Video Editing","description":"Short-form videos, reels, cuts, transitions, text animation and social-ready finishing."}],
-  "why":[{"title":"Creative & Clean","description":"Visuals that feel intentional instead of overloaded."},{"title":"Typography & Layout","description":"Careful hierarchy, spacing, alignment, and readability."},{"title":"Client-Focused","description":"Clear communication and designs built around the actual requirement."},{"title":"Reliable Delivery","description":"Professional files, practical formats, and dependable turnaround."}],
-  "portfolio":[{"slot":"project-01.jpg","category":"posters","label":"Poster Design","title":"Project 01","alt":"Poster design project 01"},{"slot":"project-02.jpg","category":"social","label":"Social Media","title":"Project 02","alt":"Social media design project 02"},{"slot":"project-03.jpg","category":"logos","label":"Logo Design","title":"Project 03","alt":"Logo design project 03"},{"slot":"project-04.jpg","category":"thumbnails","label":"Thumbnails","title":"Project 04","alt":"YouTube thumbnail project 04"},{"slot":"project-05.jpg","category":"other","label":"Creative Design","title":"Project 05","alt":"Creative design project 05"},{"slot":"project-06.jpg","category":"social","label":"Social Media","title":"Project 06","alt":"Social media design project 06"}],
-  "contact":{"email":"rkcreativestudio4534@gmail.com","whatsapp":"+91 78430 74534","instagram":"RK Creative Studio","instagramUrl":"https://www.instagram.com/rkcreativestudio369/"},
-  "footer":"© 2026 RK Creative Studio. All Rights Reserved."
+  "hero": {
+    "eyebrow": "RK Creative Studio",
+    "title": "Creative Designs That",
+    "emphasis": "Make Your Brand Stand Out.",
+    "text": "I’m Gaurav Santosh Kirtane, a graphic and creative designer focused on clean visuals, strong typography, and designs that communicate with purpose."
+  },
+  "about": {
+    "eyebrow": "About Me",
+    "heading": "Design with clarity.",
+    "emphasis": "Built for impact.",
+    "paragraphs": [
+      "I’m Gaurav Santosh Kirtane, a Graphic Designer & Creative Designer working under RK Creative Studio. I create professional visual content for brands, creators, businesses, and social platforms.",
+      "My work combines Adobe Photoshop and Canva with a strong focus on typography, layout design, visual hierarchy, and creative presentation. The goal is simple: make every design look polished, purposeful, and ready to use."
+    ],
+    "signature": "Gaurav Santosh Kirtane",
+    "role": "Designer",
+    "photo": "about-photo.png"
+  },
+  "services": [
+    {
+      "title": "Graphic Design",
+      "description": "Purpose-driven visual designs for brands, campaigns, and everyday communication.",
+      "icon": "✦"
+    },
+    {
+      "title": "Photoshop Design",
+      "description": "Professional image editing, compositions, retouching, and creative visual treatments.",
+      "icon": "◩"
+    },
+    {
+      "title": "Canva Design",
+      "description": "Clean, editable Canva designs built for fast and consistent content creation.",
+      "icon": "C"
+    },
+    {
+      "title": "Social Media Posts",
+      "description": "Scroll-stopping social creatives designed around hierarchy, message, and platform fit.",
+      "icon": "◎"
+    },
+    {
+      "title": "Poster Design",
+      "description": "Bold promotional posters with strong composition, typography, and visual focus.",
+      "icon": "▣"
+    },
+    {
+      "title": "Logo Design",
+      "description": "Simple, memorable logo concepts with attention to balance, identity, and usability.",
+      "icon": "⌘"
+    },
+    {
+      "title": "YouTube Thumbnails",
+      "description": "High-contrast thumbnail compositions designed to communicate the video idea quickly.",
+      "icon": "▶"
+    },
+    {
+      "title": "Basic Video Editing",
+      "description": "Clean cuts, simple motion, text treatments, and social-ready video finishing.",
+      "icon": "◌"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Adobe Photoshop",
+      "description": "Social media creatives, posters, banners, image editing, retouching, compositions and typography."
+    },
+    {
+      "name": "Canva",
+      "description": "Social posts, promotional designs, business posters, presentations and editable templates."
+    },
+    {
+      "name": "Typography",
+      "description": "Font pairing, hierarchy, spacing and type-focused visual communication."
+    },
+    {
+      "name": "Layout Design",
+      "description": "Balanced composition, alignment, spacing and visual hierarchy."
+    },
+    {
+      "name": "Branding",
+      "description": "Logo concepts and consistent visual assets for brands and businesses."
+    },
+    {
+      "name": "Social Media Design",
+      "description": "Instagram and Facebook creatives built for clear communication and strong presentation."
+    },
+    {
+      "name": "Basic Video Editing",
+      "description": "Short-form videos, reels, cuts, transitions, text animation and social-ready finishing."
+    }
+  ],
+  "why": [
+    {
+      "title": "Creative & Clean",
+      "description": "Visuals that feel intentional instead of overloaded."
+    },
+    {
+      "title": "Typography & Layout",
+      "description": "Careful hierarchy, spacing, alignment, and readability."
+    },
+    {
+      "title": "Client-Focused",
+      "description": "Clear communication and designs built around the actual requirement."
+    },
+    {
+      "title": "Reliable Delivery",
+      "description": "Professional files, practical formats, and dependable turnaround."
+    }
+  ],
+  "portfolio": [
+    {
+      "slot": "project-01.jpg",
+      "category": "posters",
+      "label": "Poster Design",
+      "title": "Project 01",
+      "alt": "Poster design project 01"
+    },
+    {
+      "slot": "project-02.jpg",
+      "category": "social",
+      "label": "Social Media",
+      "title": "Project 02",
+      "alt": "Social media design project 02"
+    },
+    {
+      "slot": "project-03.jpg",
+      "category": "logos",
+      "label": "Logo Design",
+      "title": "Project 03",
+      "alt": "Logo design project 03"
+    },
+    {
+      "slot": "project-04.jpg",
+      "category": "thumbnails",
+      "label": "Thumbnails",
+      "title": "Project 04",
+      "alt": "YouTube thumbnail project 04"
+    },
+    {
+      "slot": "project-05.jpg",
+      "category": "other",
+      "label": "Creative Design",
+      "title": "Project 05",
+      "alt": "Creative design project 05"
+    },
+    {
+      "slot": "project-06.jpg",
+      "category": "social",
+      "label": "Social Media",
+      "title": "Project 06",
+      "alt": "Social media design project 06"
+    }
+  ],
+  "contact": {
+    "email": "rkcreativestudio4534@gmail.com",
+    "whatsapp": "+91 78430 74534",
+    "instagram": "RK Creative Studio",
+    "instagramUrl": "https://www.instagram.com/rkcreativestudio369/"
+  },
+  "footer": "© 2026 RK Creative Studio. All Rights Reserved."
 }
