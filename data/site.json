@@ -129,8 +129,8 @@
     },
     {
       "slot": "project-03.jpg",
-      "category": "logos",
-      "label": "Logo ",
+      "category": "other",
+      "label": "Birthday frame",
       "title": "Project 03",
       "alt": "Logo design project 03"
     },
@@ -144,7 +144,7 @@
     {
       "slot": "project-05.jpg",
       "category": "other",
-      "label": "Creative Design",
+      "label": "Product sheet ",
       "title": "Project 05",
       "alt": "Creative design project 05"
     },
