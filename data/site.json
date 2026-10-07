@@ -31,12 +31,12 @@
     {
       "title": "Photoshop Design",
       "description": "Professional image editing, compositions, retouching, and creative visual treatments.",
-      "icon": "◩"
+      "icon": "🧑‍🎨"
     },
     {
       "title": "Canva Design",
       "description": "Clean, editable Canva designs built for fast and consistent content creation.",
-      "icon": "C"
+      "icon": "🎨"
     },
     {
       "title": "Social Media Posts",
@@ -129,8 +129,8 @@
     },
     {
       "slot": "project-03.jpg",
-      "category": "other",
-      "label": "Birthday frame",
+      "category": "logos",
+      "label": "Brand Logo ",
       "title": "Project 03",
       "alt": "Logo design project 03"
     },
